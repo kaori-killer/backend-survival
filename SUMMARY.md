@@ -7,3 +7,5 @@
   * [HTTP Server](1.-http/http-server.md)
   * [Java HTTP Server](1.-http/java-http-server.md)
   * [Spring Web MVC](1.-http/spring-web-mvc.md)
+* [2. REST API](2.-rest-api/README.md)
+  * [REST API & Spring Web MVC](2.-rest-api/rest-api-and-spring-web-mvc.md)
